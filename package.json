@@ -1,0 +1,11 @@
+{
+  "name": "adyen-web-5.14.0-test",
+  "description": "Adyen web 5.14.0 test",
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@adyen/adyen-web": "^5.14.0",
+    "typescript": "^4.6.4"
+  }
+}
